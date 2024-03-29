@@ -1,0 +1,94 @@
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D24000000aZrZ!AQYAQBnjVpXta5A5mGPhQtpVsbCx2mWAabWdS.OgjOOKUzuB1kbJVzcEfajA3YaWrRwlzzi5ESBjrvDAS1GYi3UJq6_MEE1f</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D24000000aZrZ!AQYAQBy6NHn1EHRBguw.HOVwNsHGZOcV7PoWago.rS.ItUB.5A3ImDPJtpdtyAjuKGVqrsp_w6VNIDmQ4s3UwXtOsIVaiu5C</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D24000000aZrZ!AQYAQL_WFXDyppDkv7L6CokMMXpP52nLbhLJ6F1zylApcnxPPmhVhHdUM1IT4JnxdTOOcnmRfKeeVmk.ObKwL99NoY5PnAYg</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D24000000aZrZ!AQYAQNDcXsdkyYgGdtq6m0CMbdkhoDKGZz_MlzYKTdNZCh43_ZjVgzszspkS31AruxWzGlUSUDWlv3wMFhPjh5J18_9RFXSL</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D24000000aZrZ!AQYAQKuUxhy7l1_OL_xBBIqQUBzX8vdQyrznupK4YY4Mi6fZDNULJ30G2SO_FkKtMKM9m6oIX1nnZiQIfR7ZfngacSeLqfEk</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
+Starting new HTTPS connection (1): dev-copado-dev-ed.my.salesforce.com
